@@ -1,0 +1,18 @@
+{
+    "item.minecraft.filled_map": "Map",
+    "block.minecraft.torch": "Torc",
+    "item.minecraft.stick": "Stig",
+    "block.minecraft.stone": "Lynt",
+    "block.minecraft.dirt": "Jot",
+    "block.minecraft.chest": "Kof",
+    "container.chest": "Kof",
+    "block.minecraft.cobblestone": "Lynt Pikad",
+    "block.minecraft.oak_planks": "Plaņkes va Aplom",
+    "item.minecraft.bucket": "Palk",
+    "item.minecraft.stone_hoe": "Hièl va Lynt",
+    "item.minecraft.stone_pickaxe": "Pik va Lynt",
+    "item.minecraft.stone_axe": "Hac va Lynt",
+    "item.minecraft.stone_shovel": "Cpal va Lynt",
+    "item.minecraft.stone_sword": "Zlad va Lynt",
+    "item.minecraft.shears": "Cut"
+}
